@@ -19601,4 +19601,26 @@
 [2015.12.18-01.26.09:910][329]LogSavePackage: Moving '../../../../../../Users/KIWe1/Documents/GitHub/WeatherSystem/WeatherController/WeatherController/Saved/Minimal_Default53BA38A44DC2AA7B251E11B21107A1DD.tmp' to '../../../../../../Users/KIWe1/Documents/GitHub/WeatherSystem/WeatherController/WeatherController/Content/StarterContent/Maps/Minimal_Default.umap'
 [2015.12.18-01.26.09:912][329]LogSavePackage: Total save time: 103.057478ms
 [2015.12.18-01.26.09:912][329]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/KIWe1/Documents/GitHub/WeatherSystem/WeatherController/WeatherController/Content/StarterContent/Maps/Minimal_Default.umap
-[2015.12.18-01.26.09:949][329]LogFileHelpers: Saving map 'Minim
+[2015.12.18-01.26.09:949][329]LogFileHelpers: Saving map 'Minimal_Default' took 2.122
+[2015.12.18-01.26.10:075][329]LogSavePackage: Save=107.442673ms
+[2015.12.18-01.26.10:075][329]LogSavePackage: Moving '../../../../../../Users/KIWe1/Documents/GitHub/WeatherSystem/WeatherController/WeatherController/Saved/WeatherContorllerBD9EDE4D4C1A9A4FFF6C9194EC5E41AF.tmp' to '../../../../../../Users/KIWe1/Documents/GitHub/WeatherSystem/WeatherController/WeatherController/Content/StarterContent/Blueprints/WeatherContorller.uasset'
+[2015.12.18-01.26.10:077][329]LogSavePackage: Total save time: 122.489262ms
+[2015.12.18-01.26.10:077][329]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/KIWe1/Documents/GitHub/WeatherSystem/WeatherController/WeatherController/Content/StarterContent/Blueprints/WeatherContorller.uasset
+[2015.12.18-01.26.10:087][329]LogSavePackage: Save=2.581099ms
+[2015.12.18-01.26.10:087][329]LogSavePackage: Moving '../../../../../../Users/KIWe1/Documents/GitHub/WeatherSystem/WeatherController/WeatherController/Saved/M_Sky_Panning_Clouds2_2A9534A794DD717996420D198A5F61986.tmp' to '../../../../../../Users/KIWe1/Documents/GitHub/WeatherSystem/WeatherController/WeatherController/Content/StarterContent/Blueprints/weather/SkySphere/Cold/M_Sky_Panning_Clouds2_2.uasset'
+[2015.12.18-01.26.10:088][329]LogSavePackage: Total save time: 4.301108ms
+[2015.12.18-01.26.10:088][329]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/KIWe1/Documents/GitHub/WeatherSystem/WeatherController/WeatherController/Content/StarterContent/Blueprints/weather/SkySphere/Cold/M_Sky_Panning_Clouds2_2.uasset
+[2015.12.18-01.26.10:097][329]LogSavePackage: Save=2.439291ms
+[2015.12.18-01.26.10:097][329]LogSavePackage: Moving '../../../../../../Users/KIWe1/Documents/GitHub/WeatherSystem/WeatherController/WeatherController/Saved/M_Sky_Panning_Clouds2_Inst_25DB5F2DF4927E844E665FE88C3AF3259.tmp' to '../../../../../../Users/KIWe1/Documents/GitHub/WeatherSystem/WeatherController/WeatherController/Content/StarterContent/Blueprints/weather/SkySphere/Cold/M_Sky_Panning_Clouds2_Inst_2.uasset'
+[2015.12.18-01.26.10:098][329]LogSavePackage: Total save time: 4.101891ms
+[2015.12.18-01.26.10:098][329]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/KIWe1/Documents/GitHub/WeatherSystem/WeatherController/WeatherController/Content/StarterContent/Blueprints/weather/SkySphere/Cold/M_Sky_Panning_Clouds2_Inst_2.uasset
+[2015.12.18-01.30.14:544][985]BlueprintLog: New page: Compile WeatherContorller
+[2015.12.18-01.30.14:572][985]LogBlueprint:Warning: [compiler WeatherContorller] Warning 'Item' is already a 'Sky Sphere for Weather', you don't need  Cast To SkySphereForWeather .
+[2015.12.18-01.30.14:646][985]LogBlueprint:Warning: [compiler WeatherContorller] Warning [1198.36] Compile of WeatherContorller successful, but with 1 Warning(s) [in 101 ms]
+[2015.12.18-01.30.14:646][985]BlueprintEditorCompileResults:Warning: Warning 'Item' is already a 'Sky Sphere for Weather', you don't need  Cast To SkySphereForWeather .
+[2015.12.18-01.30.14:646][985]BlueprintEditorCompileResults:Warning: Warning [1198.36] Compile of WeatherContorller successful, but with 1 Warning(s) [in 101 ms]
+[2015.12.18-01.36.08:585][506]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.022
+[2015.12.18-01.36.08:589][506]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Blueprints/WeatherContorller] ([1] browsable assets)...
+[2015.12.18-01.36.08:589][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Blueprints/WeatherContorller]
+[2015.12.18-01.36.08:717][506]LogSavePackage: Save=107.571762ms
+[2015.12.18-01.36.08:717][506]LogSavePackage: Moving '../../../../../../Users/KIWe1/Documents/GitHub/WeatherSystem/WeatherController/WeatherController/Saved/WeatherContorller_Auto149702DC84001F85D46E534A4DFD12F34.tmp' to '../../../../../../Users/KIWe1/Documents/GitHub/WeatherSystem/WeatherController/WeatherController/Saved/Autosaves/Game/StarterContent/Blueprints/WeatherContorller_Auto1.uasset'
